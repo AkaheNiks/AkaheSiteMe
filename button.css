@@ -1,0 +1,17 @@
+.btn{
+width: 400px;
+height: 100px;
+cursor: pointer;
+border: none;
+background: #33cc33;
+color: white;
+font-family: serif;
+font-size: 40px;
+letter-spacing: 3px;
+border-radius: 40px;
+transition:0.5s;
+}
+
+.btn:hover{
+	background-color: black;
+}
