@@ -30,6 +30,28 @@ li{
 	-webkit-text-stroke: 0.1px black ;
 }
 
+@media screen and (max-width: 1200px) {
+	
+}
+
 .tire{
 	color: black;
+}
+
+}
+
+@media screen and (max-width: 998px) {
+	
+}
+
+}
+
+@media screen and (max-width: 768px) {
+	
+}
+
+}
+
+@media screen and (max-width: 576px) {
+	
 }
